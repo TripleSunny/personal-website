@@ -18,24 +18,24 @@ organizations:
   url: "https://www.uq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 臺灣科技大學與昆士蘭大學雙聯學位就讀中。
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 財金
+- 行銷
+- 旅行
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 商學院碩士——行銷
+    institution: 昆士蘭大學
+    year: 2020（就讀中）
+  - course: 財務金融碩士
+    institution: 國立臺灣科技大學
+    year: 2020
+  - course: 企業管理學士，雙主修財金
+    institution: 國立臺灣科技大學
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

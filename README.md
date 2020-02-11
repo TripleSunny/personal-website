@@ -36,3 +36,7 @@ hugo new  --kind post post/my-article-name
 * [Getting started | Academic](https://sourcethemes.com/academic/docs/)
   * [Managing content | Academic](https://sourcethemes.com/academic/docs/managing-content/)
   * [Writing content with Markdown, LaTeX, and Shortcodes | Academic](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
+
+### Markdown Syntax
+
+* [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)

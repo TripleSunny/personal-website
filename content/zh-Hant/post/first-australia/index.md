@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "我的澳洲行前紀錄"
+title: "First Australia"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: []
-categories: []
-date: 2020-02-11T21:18:34+08:00
-lastmod: 2020-02-11T21:18:34+08:00
+tags: [UQ]
+categories: [Study Abroad]
+date: 2020-02-11T21:53:59+08:00
+lastmod: 2020-02-11T21:53:59+08:00
 featured: false
 draft: false
 
@@ -27,5 +27,3 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-hihi

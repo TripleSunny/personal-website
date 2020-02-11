@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Double degree processing in UQ and NTUST.
 
 interests:
 - Finance
