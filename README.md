@@ -16,7 +16,7 @@
 ./view.sh
 ```
 
-Open website [http://localhost:1313](http://localhost:1313)
+Open website [http://localhost:1313](http://loc alhost:1313)
 
 ## Links
 
